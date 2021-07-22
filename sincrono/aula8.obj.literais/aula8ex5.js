@@ -6,6 +6,8 @@ let pessoa= {
     nascimento: '16/08/1963',
     renda: 4000.00}
     
-    let {nomeCompleto:nome,renda}=pessoa;
+    let {nomeCompleto,renda}=pessoa; // para desestruturar
+    let {nomeCompleto:nome,renda}=pessoa; // caso eu queira renomear --> nomeCompleto:nome
 ​
-    console.log(nome);
+    console.log(nome);//José Henrique dos Santos
+    console.log(renda);//4000.00 
