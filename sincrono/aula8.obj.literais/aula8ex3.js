@@ -1,7 +1,7 @@
 //função construtora - faz a planta do objeto
 function Pessoa(nomeCompleto, sexo, cpf, nascimento, renda, hobbies) 
 {
-    this.nomeCompleto=nomeCompleto;
+    this.nomeCompleto=nomeCompleto; //; por conta da função
     this.sexo=sexo;
     this.cpf=cpf;
     this.nascimento=nascimento;
