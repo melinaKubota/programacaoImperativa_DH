@@ -26,7 +26,7 @@ seguintes propriedades (os valores devem ser do tipo mostrado abaixo):
 - `assentos` - Number - cinco por padrão
 - `quantidadePessoas` - Number - zero por padrão
 */
-?
+
 
 /*
 Crie um método chamado `mudarCor` que mude a cor do carro conforme a cor
