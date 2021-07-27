@@ -1,4 +1,4 @@
-# programacaoImperativa_DH
+# Programação Imperativa
 
 Programação Imperativa na sociedade atual, onde as competências digitais são essenciais no local de trabalho, especialmente nas áreas técnicas, a "Programação Imperativa" procura transmitir as bases da programação de modo a gerar as bases necessárias para o crescimento dos estudantes e conseguir a incorporação dos conceitos fundamentais para formar um profissional competente. Os conteúdos foram concebidos para que os estudantes incorporem o pensamento computacional que lhes permitirá estruturar os seus mecanismos de resolução de problemas.
 
